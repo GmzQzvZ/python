@@ -1,0 +1,1323 @@
+{
+    "objectIdFieldName": "id_sne",
+    "globalIdFieldName": "",
+    "fields": [
+        {
+            "name": "objectid",
+            "alias": "objectid",
+            "type": "esriFieldTypeInteger"
+        },
+        {
+            "name": "id_sae",
+            "alias": "id_sae",
+            "type": "esriFieldTypeInteger"
+        },
+        {
+            "name": "nombre_sae",
+            "alias": "nombre_sae",
+            "type": "esriFieldTypeString",
+            "length": 1073741822
+        },
+        {
+            "name": "id_sne",
+            "alias": "id_sne",
+            "type": "esriFieldTypeOID"
+        },
+        {
+            "name": "nombre_sne",
+            "alias": "nombre_sne",
+            "type": "esriFieldTypeString",
+            "length": 10
+        },
+        {
+            "name": "destino_sne",
+            "alias": "destino_sne",
+            "type": "esriFieldTypeString",
+            "length": 50
+        },
+        {
+            "name": "nombre_ruta_sae",
+            "alias": "nombre_ruta_sae",
+            "type": "esriFieldTypeString",
+            "length": 1073741822
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "objectid": 19,
+                "id_sae": 262,
+                "nombre_sae": "1",
+                "id_sne": 19,
+                "nombre_sne": "1",
+                "destino_sne": "Portal Eldorado",
+                "nombre_ruta_sae": "1 P. ELDORADO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 502,
+                "id_sae": 262,
+                "nombre_sae": "1",
+                "id_sne": 502,
+                "nombre_sne": "1",
+                "destino_sne": "Universidades",
+                "nombre_ruta_sae": "1 P. ELDORADO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 39,
+                "id_sae": 263,
+                "nombre_sae": "2",
+                "id_sne": 39,
+                "nombre_sne": "2",
+                "destino_sne": "Portal 20 de Julio",
+                "nombre_ruta_sae": "2 MUSEO NACIONAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 503,
+                "id_sae": 263,
+                "nombre_sae": "2",
+                "id_sne": 503,
+                "nombre_sne": "2",
+                "destino_sne": "Museo Nacional",
+                "nombre_ruta_sae": "2 MUSEO NACIONAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 68,
+                "id_sae": 264,
+                "nombre_sae": "3",
+                "id_sne": 68,
+                "nombre_sne": "3",
+                "destino_sne": "Portal Usme",
+                "nombre_ruta_sae": "3 CONCEJO DE BOGOTÁ"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 504,
+                "id_sae": 264,
+                "nombre_sae": "3",
+                "id_sne": 504,
+                "nombre_sne": "3",
+                "destino_sne": "Plaza de la Democracia",
+                "nombre_ruta_sae": "3 CONCEJO DE BOGOTÁ"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 70,
+                "id_sae": 265,
+                "nombre_sae": "4",
+                "id_sne": 70,
+                "nombre_sne": "4",
+                "destino_sne": "Heroes",
+                "nombre_ruta_sae": "4 HÉROES"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 505,
+                "id_sae": 265,
+                "nombre_sae": "4",
+                "id_sne": 505,
+                "nombre_sne": "4",
+                "destino_sne": "Portal Sur",
+                "nombre_ruta_sae": "4 HÉROES"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 52,
+                "id_sae": 266,
+                "nombre_sae": "5",
+                "id_sne": 52,
+                "nombre_sne": "5",
+                "destino_sne": "Calle 22",
+                "nombre_ruta_sae": "5 CALLE 22"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 506,
+                "id_sae": 266,
+                "nombre_sae": "5",
+                "id_sne": 506,
+                "nombre_sne": "5",
+                "destino_sne": "Portal Americas",
+                "nombre_ruta_sae": "5 CALLE 22"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 507,
+                "id_sae": 267,
+                "nombre_sae": "6",
+                "id_sne": 507,
+                "nombre_sne": "6",
+                "destino_sne": "Universidades",
+                "nombre_ruta_sae": "  6 ESTACIÓN CALLE 26"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 520,
+                "id_sae": 267,
+                "nombre_sae": "6",
+                "id_sne": 520,
+                "nombre_sne": "6",
+                "destino_sne": "Universidades",
+                "nombre_ruta_sae": "  6 ESTACIÓN CALLE 26"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 508,
+                "id_sae": 268,
+                "nombre_sae": "7",
+                "id_sne": 508,
+                "nombre_sne": "7",
+                "destino_sne": "Santa Isabel",
+                "nombre_ruta_sae": "7 PORTAL SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 509,
+                "id_sae": 268,
+                "nombre_sae": "7",
+                "id_sne": 509,
+                "nombre_sne": "7",
+                "destino_sne": "Portal Suba",
+                "nombre_ruta_sae": "7 PORTAL SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 78,
+                "id_sae": 269,
+                "nombre_sae": "8",
+                "id_sne": 78,
+                "nombre_sne": "8",
+                "destino_sne": "Guatoque - Veraguas",
+                "nombre_ruta_sae": "8 GUATOQUE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 521,
+                "id_sae": 269,
+                "nombre_sae": "8",
+                "id_sne": 521,
+                "nombre_sne": "8",
+                "destino_sne": "Terminal",
+                "nombre_ruta_sae": "8 GUATOQUE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 514,
+                "id_sae": 47,
+                "nombre_sae": "A51",
+                "id_sne": 514,
+                "nombre_sne": "A51",
+                "destino_sne": "Calle 57",
+                "nombre_ruta_sae": "A51 CALLE 57"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 45,
+                "id_sae": 2,
+                "nombre_sae": "A52 - G52",
+                "id_sne": 45,
+                "nombre_sne": "A52",
+                "destino_sne": "Flores",
+                "nombre_ruta_sae": "A52 FLORES"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 1,
+                "id_sae": 4,
+                "nombre_sae": "A74 CALLE 72",
+                "id_sne": 1,
+                "nombre_sne": "A74",
+                "destino_sne": "Calle 72",
+                "nombre_ruta_sae": "A70 CALLE 72"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 10,
+                "id_sae": 6,
+                "nombre_sae": "B10 - D10",
+                "id_sne": 10,
+                "nombre_sne": "B10",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B10 P.NORTE - AV CALI"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 42,
+                "id_sae": 43,
+                "nombre_sae": "B11-G11",
+                "id_sne": 42,
+                "nombre_sne": "B11",
+                "destino_sne": "Terminal",
+                "nombre_ruta_sae": "B11 TERMINAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 41,
+                "id_sae": 7,
+                "nombre_sae": "B12 - G12",
+                "id_sne": 41,
+                "nombre_sne": "B12",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B12 P.NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 26,
+                "id_sae": 8,
+                "nombre_sae": "B13 - H13",
+                "id_sne": 26,
+                "nombre_sne": "B13",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B13 P.NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 2,
+                "id_sae": 9,
+                "nombre_sae": "B14 - F14",
+                "id_sne": 2,
+                "nombre_sne": "B14",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B14 P. NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 51,
+                "id_sae": 10,
+                "nombre_sae": "B16 - K16",
+                "id_sne": 51,
+                "nombre_sne": "B16",
+                "destino_sne": "Terminal",
+                "nombre_ruta_sae": "B16 TERMINAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 20,
+                "id_sae": 108,
+                "nombre_sae": "B18 - L18",
+                "id_sne": 20,
+                "nombre_sne": "B18",
+                "destino_sne": "Portal 20 de Julio",
+                "nombre_ruta_sae": "B18 AV. PRIMERO DE MAYO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 3,
+                "id_sae": 109,
+                "nombre_sae": "B23 - K23",
+                "id_sne": 3,
+                "nombre_sne": "B23",
+                "destino_sne": "Alcalá",
+                "nombre_ruta_sae": "B23 ALCALA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 27,
+                "id_sae": 11,
+                "nombre_sae": "B27 - H27",
+                "id_sne": 27,
+                "nombre_sne": "B27",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B27 P- NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 11,
+                "id_sae": 12,
+                "nombre_sae": "B28 - F28",
+                "id_sne": 11,
+                "nombre_sne": "B28",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B28 P. NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 518,
+                "id_sae": 305,
+                "nombre_sae": "B44 - G44",
+                "id_sne": 518,
+                "nombre_sne": "B44",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B44 ALCALÁ"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 512,
+                "id_sae": 14,
+                "nombre_sae": "B50 - C50",
+                "id_sne": 512,
+                "nombre_sne": "B50",
+                "destino_sne": "Calle 161",
+                "nombre_ruta_sae": "B50 CALLE 161"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 510,
+                "id_sae": 15,
+                "nombre_sae": "B52",
+                "id_sne": 510,
+                "nombre_sne": "B52",
+                "destino_sne": "Alcala",
+                "nombre_ruta_sae": "B52 ALCALÁ"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 6,
+                "id_sae": 18,
+                "nombre_sae": "B55",
+                "id_sne": 6,
+                "nombre_sne": "B55",
+                "destino_sne": "Heroes",
+                "nombre_ruta_sae": "B55 HEROES"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 7,
+                "id_sae": 19,
+                "nombre_sae": "B56",
+                "id_sne": 7,
+                "nombre_sne": "B56",
+                "destino_sne": "Portal Suba",
+                "nombre_ruta_sae": "B56 HEROES"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 511,
+                "id_sae": 48,
+                "nombre_sae": "B71",
+                "id_sne": 511,
+                "nombre_sne": "B71",
+                "destino_sne": "Toberín",
+                "nombre_ruta_sae": "B71 P.NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 25,
+                "id_sae": 47,
+                "nombre_sae": "A51",
+                "id_sne": 25,
+                "nombre_sne": "B72",
+                "destino_sne": "Toberin",
+                "nombre_ruta_sae": "B72 P.NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 25,
+                "id_sae": 50,
+                "nombre_sae": "H72 - B72",
+                "id_sne": 25,
+                "nombre_sne": "B72",
+                "destino_sne": "Toberin",
+                "nombre_ruta_sae": "B72 TOBERIN"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 8,
+                "id_sae": 21,
+                "nombre_sae": "B74 - J74",
+                "id_sne": 8,
+                "nombre_sne": "B74",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B74 P.NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 82,
+                "id_sae": 21,
+                "nombre_sae": "B74 - J74",
+                "id_sne": 82,
+                "nombre_sne": "B74",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B74 P.NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 99,
+                "id_sae": 52,
+                "nombre_sae": "H75 - B75",
+                "id_sne": 99,
+                "nombre_sne": "B75",
+                "destino_sne": "Portal Norte",
+                "nombre_ruta_sae": "B75 P. NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 69,
+                "id_sae": 1,
+                "nombre_sae": "C15 - H15",
+                "id_sne": 69,
+                "nombre_sne": "C15",
+                "destino_sne": "Portal Suba",
+                "nombre_ruta_sae": "C15 PORTAL SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 84,
+                "id_sae": 26,
+                "nombre_sae": "C17 - H17",
+                "id_sne": 84,
+                "nombre_sne": "C17",
+                "destino_sne": "Portal Suba",
+                "nombre_ruta_sae": "C17 - P. SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 85,
+                "id_sae": 27,
+                "nombre_sae": "C19 - F19",
+                "id_sne": 85,
+                "nombre_sne": "C19",
+                "destino_sne": "Portal Suba",
+                "nombre_ruta_sae": "C19 P.SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 87,
+                "id_sae": 105,
+                "nombre_sae": "C29 - F29",
+                "id_sne": 87,
+                "nombre_sne": "C29",
+                "destino_sne": "Portal Suba",
+                "nombre_ruta_sae": "C29 PORTAL SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 43,
+                "id_sae": 28,
+                "nombre_sae": "G30 - C30",
+                "id_sne": 43,
+                "nombre_sne": "C30",
+                "destino_sne": "Portal Suba",
+                "nombre_ruta_sae": "C30 PORTAL SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 513,
+                "id_sae": 14,
+                "nombre_sae": "B50 - C50",
+                "id_sne": 513,
+                "nombre_sne": "C50",
+                "destino_sne": "Portal Suba",
+                "nombre_ruta_sae": "C50 P.SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 89,
+                "id_sae": 55,
+                "nombre_sae": "J73 - C73",
+                "id_sne": 89,
+                "nombre_sne": "C73",
+                "destino_sne": "Portal Suba",
+                "nombre_ruta_sae": "C73 IDA FICTICIA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 67,
+                "id_sae": 122,
+                "nombre_sae": "M84-C84",
+                "id_sne": 67,
+                "nombre_sne": "C84",
+                "destino_sne": "ETB Tibabuyes",
+                "nombre_ruta_sae": "C84 CICLOVIA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 12,
+                "id_sae": 6,
+                "nombre_sae": "B10 - D10",
+                "id_sne": 12,
+                "nombre_sne": "D10",
+                "destino_sne": "Portal 80",
+                "nombre_ruta_sae": "D10 AV CALI"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 28,
+                "id_sae": 32,
+                "nombre_sae": "D20 - H20",
+                "id_sne": 28,
+                "nombre_sne": "D20",
+                "destino_sne": "Portal 80",
+                "nombre_ruta_sae": "D20 P. 80"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 29,
+                "id_sae": 45,
+                "nombre_sae": "D21 - H21",
+                "id_sne": 29,
+                "nombre_sne": "D21",
+                "destino_sne": "Portal 80",
+                "nombre_ruta_sae": "D21 AV CALI"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 44,
+                "id_sae": 33,
+                "nombre_sae": "D22 - G22",
+                "id_sne": 44,
+                "nombre_sne": "D22",
+                "destino_sne": "Portal 80",
+                "nombre_ruta_sae": "D22 PORTAL 80"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 98,
+                "id_sae": 53,
+                "nombre_sae": "J24 - D24",
+                "id_sne": 98,
+                "nombre_sne": "D24",
+                "destino_sne": "Portal 80",
+                "nombre_ruta_sae": "D24 P.80"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 516,
+                "id_sae": 41,
+                "nombre_sae": "F62 - D50",
+                "id_sne": 516,
+                "nombre_sne": "D50",
+                "destino_sne": "Granja",
+                "nombre_ruta_sae": "D50 GRANJA - CRA 77"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 515,
+                "id_sae": 132,
+                "nombre_sae": "D51",
+                "id_sne": 515,
+                "nombre_sne": "D51",
+                "destino_sne": "Escuela Militar",
+                "nombre_ruta_sae": "D51 - E. MILITAR"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 66,
+                "id_sae": 252,
+                "nombre_sae": "D81-M81",
+                "id_sne": 66,
+                "nombre_sne": "D81",
+                "destino_sne": "Puente de Guadua ",
+                "nombre_ruta_sae": "D81 CICLOVÍA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 14,
+                "id_sae": 39,
+                "nombre_sae": "E32 - F32",
+                "id_sne": 14,
+                "nombre_sne": "E32",
+                "destino_sne": "NQS Calle 75",
+                "nombre_ruta_sae": "E32 NQS-CL 75"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 53,
+                "id_sae": 9,
+                "nombre_sae": "B14 - F14",
+                "id_sne": 53,
+                "nombre_sne": "F14",
+                "destino_sne": "Portal Americas",
+                "nombre_ruta_sae": "F14 AMERICAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 86,
+                "id_sae": 27,
+                "nombre_sae": "C19 - F19",
+                "id_sne": 86,
+                "nombre_sne": "F19",
+                "destino_sne": "Banderas",
+                "nombre_ruta_sae": "F19 BANDERAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 95,
+                "id_sae": 40,
+                "nombre_sae": "F23 - J23",
+                "id_sne": 95,
+                "nombre_sne": "F23",
+                "destino_sne": "Portal Americas",
+                "nombre_ruta_sae": "F23 AMÉRICAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 54,
+                "id_sae": 12,
+                "nombre_sae": "B28 - F28",
+                "id_sne": 54,
+                "nombre_sne": "F28",
+                "destino_sne": "Portal Americas",
+                "nombre_ruta_sae": "F28 P. AMERICAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 88,
+                "id_sae": 105,
+                "nombre_sae": "C29 - F29",
+                "id_sne": 88,
+                "nombre_sne": "F29",
+                "destino_sne": "Portal Americas",
+                "nombre_ruta_sae": "F29 PORTAL AMERICAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 92,
+                "id_sae": 39,
+                "nombre_sae": "E32 - F32",
+                "id_sne": 92,
+                "nombre_sne": "F32",
+                "destino_sne": "Portal Americas",
+                "nombre_ruta_sae": "F32 P.AMERICAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 55,
+                "id_sae": 111,
+                "nombre_sae": "M51 - F51",
+                "id_sne": 55,
+                "nombre_sne": "F51",
+                "destino_sne": "Portal Americas",
+                "nombre_ruta_sae": "F51 - P. AMÉRICAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 517,
+                "id_sae": 41,
+                "nombre_sae": "F62 - D50",
+                "id_sne": 517,
+                "nombre_sne": "F62",
+                "destino_sne": "Portal Americas",
+                "nombre_ruta_sae": "F62 AMERICAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 77,
+                "id_sae": 43,
+                "nombre_sae": "B11-G11",
+                "id_sne": 77,
+                "nombre_sne": "G11",
+                "destino_sne": "Portal Sur",
+                "nombre_ruta_sae": "G11 P.SUR"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 48,
+                "id_sae": 7,
+                "nombre_sae": "B12 - G12",
+                "id_sne": 48,
+                "nombre_sne": "G12",
+                "destino_sne": "Portal Sur",
+                "nombre_ruta_sae": "G12 G.SANTANDER"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 47,
+                "id_sae": 33,
+                "nombre_sae": "D22 - G22",
+                "id_sne": 47,
+                "nombre_sne": "G22",
+                "destino_sne": "Portal Sur",
+                "nombre_ruta_sae": "G22 PORTAL 80 BI"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 46,
+                "id_sae": 28,
+                "nombre_sae": "G30 - C30",
+                "id_sne": 46,
+                "nombre_sne": "G30",
+                "destino_sne": "Portal Sur",
+                "nombre_ruta_sae": "G30 PORTAL SUR"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 74,
+                "id_sae": 280,
+                "nombre_sae": "K42 - G42",
+                "id_sne": 74,
+                "nombre_sne": "G42",
+                "destino_sne": "San Mateo",
+                "nombre_ruta_sae": "G42 - SAN MATEO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 96,
+                "id_sae": 112,
+                "nombre_sae": "K43 - G43",
+                "id_sne": 96,
+                "nombre_sne": "G43",
+                "destino_sne": "San Mateo",
+                "nombre_ruta_sae": "G43 CAD - S. MATEO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 519,
+                "id_sae": 114,
+                "nombre_sae": "E44 - G44",
+                "id_sne": 519,
+                "nombre_sne": "G44",
+                "destino_sne": "Portal Sur",
+                "nombre_ruta_sae": "E44 - SIMÓN BOLIVAR"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 519,
+                "id_sae": 305,
+                "nombre_sae": "B44 - G44",
+                "id_sne": 519,
+                "nombre_sne": "G44",
+                "destino_sne": "Portal Sur",
+                "nombre_ruta_sae": "G44 - SAN MATEO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 59,
+                "id_sae": 134,
+                "nombre_sae": "G45",
+                "id_sne": 59,
+                "nombre_sne": "G45",
+                "destino_sne": "San Mateo",
+                "nombre_ruta_sae": "G45 PORTAL SUR"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 50,
+                "id_sae": 203,
+                "nombre_sae": "M47 - G47",
+                "id_sne": 50,
+                "nombre_sne": "G47",
+                "destino_sne": "Portal Sur",
+                "nombre_ruta_sae": "G47 - P. SUR"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 49,
+                "id_sae": 2,
+                "nombre_sae": "A52 - G52",
+                "id_sne": 49,
+                "nombre_sne": "G52",
+                "destino_sne": "Portal Sur",
+                "nombre_ruta_sae": "G52 - PORTAL SUR"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 33,
+                "id_sae": 8,
+                "nombre_sae": "B13 - H13",
+                "id_sne": 33,
+                "nombre_sne": "H13",
+                "destino_sne": "Portal Tunal",
+                "nombre_ruta_sae": "H13 P.TUNAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 32,
+                "id_sae": 1,
+                "nombre_sae": "C15 - H15",
+                "id_sne": 32,
+                "nombre_sne": "H15",
+                "destino_sne": "Portal Tunal",
+                "nombre_ruta_sae": "H15 PORTAL SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 71,
+                "id_sae": 26,
+                "nombre_sae": "C17 - H17",
+                "id_sne": 71,
+                "nombre_sne": "H17",
+                "destino_sne": "Portal Usme",
+                "nombre_ruta_sae": "H17 CALLE 40 S"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 90,
+                "id_sae": 32,
+                "nombre_sae": "D20 - H20",
+                "id_sne": 90,
+                "nombre_sne": "H20",
+                "destino_sne": "Portal Usme",
+                "nombre_ruta_sae": "H20 PORTAL USME"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 34,
+                "id_sae": 45,
+                "nombre_sae": "D21 - H21",
+                "id_sne": 34,
+                "nombre_sne": "H21",
+                "destino_sne": "Portal Tunal",
+                "nombre_ruta_sae": "H21 CALLE 40S"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 36,
+                "id_sae": 11,
+                "nombre_sae": "B27 - H27",
+                "id_sne": 36,
+                "nombre_sne": "H27",
+                "destino_sne": "Portal Tunal",
+                "nombre_ruta_sae": "H27 P. TUNAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 37,
+                "id_sae": 110,
+                "nombre_sae": "H54 - K54",
+                "id_sne": 37,
+                "nombre_sne": "H54",
+                "destino_sne": "Portal Usme",
+                "nombre_ruta_sae": "H54 PORTAL USME"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 100,
+                "id_sae": 50,
+                "nombre_sae": "H72 - B72",
+                "id_sne": 100,
+                "nombre_sne": "H72",
+                "destino_sne": "Portal Usme",
+                "nombre_ruta_sae": "H61 P.USME"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 38,
+                "id_sae": 51,
+                "nombre_sae": "H73",
+                "id_sne": 38,
+                "nombre_sne": "H73",
+                "destino_sne": "Portal Tunal",
+                "nombre_ruta_sae": "H73 - P. TUNAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 73,
+                "id_sae": 52,
+                "nombre_sae": "H75 - B75",
+                "id_sne": 73,
+                "nombre_sne": "H75",
+                "destino_sne": "Portal Usme",
+                "nombre_ruta_sae": "B73 P.NORTE"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 40,
+                "id_sae": 135,
+                "nombre_sae": "H83-M83",
+                "id_sne": 40,
+                "nombre_sne": "H83",
+                "destino_sne": "Usme Porvenir II",
+                "nombre_ruta_sae": "H83"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 40,
+                "id_sae": 253,
+                "nombre_sae": "H83-M83",
+                "id_sne": 40,
+                "nombre_sne": "H83",
+                "destino_sne": "Usme Porvenir II",
+                "nombre_ruta_sae": "H83"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 15,
+                "id_sae": 40,
+                "nombre_sae": "F23 - J23",
+                "id_sne": 15,
+                "nombre_sne": "J23",
+                "destino_sne": "Las Aguas",
+                "nombre_ruta_sae": "J23 AGUAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 16,
+                "id_sae": 53,
+                "nombre_sae": "J24 - D24",
+                "id_sne": 16,
+                "nombre_sne": "J24",
+                "destino_sne": "Universidades",
+                "nombre_ruta_sae": "D70 P.80"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 56,
+                "id_sae": 54,
+                "nombre_sae": "J70",
+                "id_sne": 56,
+                "nombre_sne": "J70",
+                "destino_sne": "Las Aguas",
+                "nombre_ruta_sae": "J70 AGUAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 57,
+                "id_sae": 55,
+                "nombre_sae": "J73 - C73",
+                "id_sne": 57,
+                "nombre_sne": "J73",
+                "destino_sne": "Universidades",
+                "nombre_ruta_sae": "J73 UNIVERSIDADES"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 17,
+                "id_sae": 21,
+                "nombre_sae": "B74 - J74",
+                "id_sne": 17,
+                "nombre_sne": "J74",
+                "destino_sne": "Las Aguas",
+                "nombre_ruta_sae": "J72 AGUAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 83,
+                "id_sae": 21,
+                "nombre_sae": "B74 - J74",
+                "id_sne": 83,
+                "nombre_sne": "J74",
+                "destino_sne": "Universidades",
+                "nombre_ruta_sae": "J72 AGUAS"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 22,
+                "id_sae": 56,
+                "nombre_sae": "L10 - K10",
+                "id_sne": 22,
+                "nombre_sne": "K10",
+                "destino_sne": "Portal Eldorado",
+                "nombre_ruta_sae": "K10 CALLE 22"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 79,
+                "id_sae": 10,
+                "nombre_sae": "B16 - K16",
+                "id_sne": 79,
+                "nombre_sne": "K16",
+                "destino_sne": "Portal Eldorado",
+                "nombre_ruta_sae": "K16 P.ELDORADO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 80,
+                "id_sae": 109,
+                "nombre_sae": "B23 - K23",
+                "id_sne": 80,
+                "nombre_sne": "K23",
+                "destino_sne": "Portal Eldorado",
+                "nombre_ruta_sae": "K23 P.ELDORADO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 75,
+                "id_sae": 280,
+                "nombre_sae": "K42 - G42",
+                "id_sne": 75,
+                "nombre_sne": "K42",
+                "destino_sne": "Corferias",
+                "nombre_ruta_sae": "K42 - RECINTO FERIAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 97,
+                "id_sae": 112,
+                "nombre_sae": "K43 - G43",
+                "id_sne": 97,
+                "nombre_sne": "K43",
+                "destino_sne": "Portal Eldorado",
+                "nombre_ruta_sae": "K43 - P. ELDORADO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 31,
+                "id_sae": 110,
+                "nombre_sae": "H54 - K54",
+                "id_sne": 31,
+                "nombre_sne": "K54",
+                "destino_sne": "Portal Eldorado",
+                "nombre_ruta_sae": "K54 P. ELDORADO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 63,
+                "id_sae": 125,
+                "nombre_sae": "M86-K86",
+                "id_sne": 63,
+                "nombre_sne": "K86",
+                "destino_sne": "Aeropuerto Eldorado",
+                "nombre_ruta_sae": "CIRCULAR K86 MUSEO-PORTAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 63,
+                "id_sae": 342,
+                "nombre_sae": "RB_MK86",
+                "id_sne": 63,
+                "nombre_sne": "K86",
+                "destino_sne": "Aeropuerto Eldorado",
+                "nombre_ruta_sae": "K86 REFUERZO CALLE 75 PRU"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 35,
+                "id_sae": 56,
+                "nombre_sae": "L10 - K10",
+                "id_sne": 35,
+                "nombre_sne": "L10",
+                "destino_sne": "Portal 20 de Julio",
+                "nombre_ruta_sae": "L10 CALLE 22"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 76,
+                "id_sae": 108,
+                "nombre_sae": "B18 - L18",
+                "id_sne": 76,
+                "nombre_sne": "L18",
+                "destino_sne": "Terminal",
+                "nombre_ruta_sae": "L18 P. 20 DE JULIO"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 65,
+                "id_sae": 130,
+                "nombre_sae": "M82-L82",
+                "id_sne": 65,
+                "nombre_sne": "L82",
+                "destino_sne": "Portal 20 de Julio",
+                "nombre_ruta_sae": "L82 CICLOVÍA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 21,
+                "id_sae": 203,
+                "nombre_sae": "M47 - G47",
+                "id_sne": 21,
+                "nombre_sne": "M47",
+                "destino_sne": "Museo Nacional",
+                "nombre_ruta_sae": "M47 M. NACIONAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 18,
+                "id_sae": 111,
+                "nombre_sae": "M51 - F51",
+                "id_sne": 18,
+                "nombre_sne": "M51",
+                "destino_sne": "Museo Nacional",
+                "nombre_ruta_sae": "M51 - MUSEO NACIONAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 60,
+                "id_sae": 135,
+                "nombre_sae": "H83-M83",
+                "id_sne": 60,
+                "nombre_sne": "M81",
+                "destino_sne": "Museo Nacional",
+                "nombre_ruta_sae": "M81-H81 MUSEO-USME"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 60,
+                "id_sae": 252,
+                "nombre_sae": "D81-M81",
+                "id_sne": 60,
+                "nombre_sne": "M81",
+                "destino_sne": "Museo Nacional",
+                "nombre_ruta_sae": "CIRCULAR CL72"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 64,
+                "id_sae": 130,
+                "nombre_sae": "M82-L82",
+                "id_sne": 64,
+                "nombre_sne": "M82",
+                "destino_sne": "Portal 20 de Julio",
+                "nombre_ruta_sae": "M82 CICLOVÍA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 23,
+                "id_sae": 135,
+                "nombre_sae": "H83-M83",
+                "id_sne": 23,
+                "nombre_sne": "M83",
+                "destino_sne": "Museo Nacional",
+                "nombre_ruta_sae": "M83"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 23,
+                "id_sae": 253,
+                "nombre_sae": "H83-M83",
+                "id_sne": 23,
+                "nombre_sne": "M83",
+                "destino_sne": "Museo Nacional",
+                "nombre_ruta_sae": "M83"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 61,
+                "id_sae": 122,
+                "nombre_sae": "M84-C84",
+                "id_sne": 61,
+                "nombre_sne": "M84",
+                "destino_sne": "Museo Nacional",
+                "nombre_ruta_sae": "CICLOVIA_MUSEO-SUBA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 62,
+                "id_sae": 125,
+                "nombre_sae": "M86-K86",
+                "id_sne": 62,
+                "nombre_sne": "M86",
+                "destino_sne": "Hacienda Santa Bárbara ",
+                "nombre_ruta_sae": "CIRCULAR M86-K86 MUSEO-PORTAL"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 62,
+                "id_sae": 192,
+                "nombre_sae": "PRUEBAS PROGRAMACIÓN",
+                "id_sne": 62,
+                "nombre_sne": "M86",
+                "destino_sne": "Hacienda Santa Bárbara ",
+                "nombre_ruta_sae": "M86-K86 CICLOVÍA"
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 62,
+                "id_sae": 342,
+                "nombre_sae": "RB_MK86",
+                "id_sne": 62,
+                "nombre_sne": "M86",
+                "destino_sne": "Hacienda Santa Bárbara ",
+                "nombre_ruta_sae": "M86-K86 CIRCULAR AEROPUERTO PRU"
+            }
+        }
+    ]
+}
