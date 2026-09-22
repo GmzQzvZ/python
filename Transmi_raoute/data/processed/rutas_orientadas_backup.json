@@ -13932,71 +13932,8 @@
             "nombre": "Portal 80",
             "fuente": "alias_validado"
           },
-          "destino_info": {
-            "tipo": "estacion",
-            "id": 44,
-            "nombre": "Portal Usme",
-            "fuente": "coincidencia_exacta"
-          },
-          "estado": "construida",
-          "estaciones_orientadas": [
-            {
-              "orden": 17,
-              "id": 102,
-              "nombre": "Portal 80",
-              "x": 259.0,
-              "y": 570.0
-            },
-            {
-              "orden": 16,
-              "id": 101,
-              "nombre": "Quirigua",
-              "x": 259.0,
-              "y": 550.0
-            },
-            {
-              "orden": 15,
-              "id": 98,
-              "nombre": "Granja - KR 77",
-              "x": 259.0,
-              "y": 490.0
-            },
-            {
-              "orden": 14,
-              "id": 96,
-              "nombre": "Avenida Boyacá",
-              "x": 270.0,
-              "y": 446.0
-            },
-            {
-              "orden": 13,
-              "id": 95,
-              "nombre": "Ferias",
-              "x": 286.0,
-              "y": 430.0
-            },
-            {
-              "orden": 12,
-              "id": 94,
-              "nombre": "Avenida 68",
-              "x": 302.0,
-              "y": 416.0
-            },
-            {
-              "orden": 11,
-              "id": 90,
-              "nombre": "Polo - Fincomercio",
-              "x": 398.0,
-              "y": 300.0
-            },
-            {
-              "orden": 10,
-              "id": 44,
-              "nombre": "Portal Usme",
-              "x": 1020.0,
-              "y": 342.0
-            }
-          ]
+          "destino_info": null,
+          "estado": "pendiente"
         }
       ]
     },
@@ -18519,6 +18456,697 @@
               "y": 172.0
             }
           ]
+        }
+      ]
+    },
+    "M86": {
+      "servicio": "M86",
+      "horario": "M86 - De Aeropuerto Eldorado a Hacienda Santa Bárbara: &nbsp L-S 4:30 AM a 10:00 PM &nbsp|&nbsp D-F 4:30 AM A 9:00 PM <br> M86 - De Aeropuerto Eldorado a Hacienda Santa Bárbara [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+      "estaciones_base": [
+        {
+          "orden": 1,
+          "id": 105,
+          "nombre": "Concejo de Bogotá",
+          "x": 614.0,
+          "y": 317.0
+        },
+        {
+          "orden": 2,
+          "id": 107,
+          "nombre": "Corferias",
+          "x": 560.0,
+          "y": 422.0
+        },
+        {
+          "orden": 3,
+          "id": 108,
+          "nombre": "Quinta Paredes",
+          "x": 540.0,
+          "y": 447.0
+        },
+        {
+          "orden": 4,
+          "id": 109,
+          "nombre": "Gobernación",
+          "x": 525.0,
+          "y": 470.0
+        },
+        {
+          "orden": 5,
+          "id": 110,
+          "nombre": "CAN British Council",
+          "x": 525.0,
+          "y": 493.0
+        },
+        {
+          "orden": 6,
+          "id": 111,
+          "nombre": "Salitre - El Greco",
+          "x": 525.0,
+          "y": 517.0
+        },
+        {
+          "orden": 7,
+          "id": 112,
+          "nombre": "El Tiempo Cámara de Comercio de Bogotá",
+          "x": 525.0,
+          "y": 542.0
+        },
+        {
+          "orden": 8,
+          "id": 113,
+          "nombre": "Av. Rojas - Unisalesiana",
+          "x": 525.0,
+          "y": 566.0
+        },
+        {
+          "orden": 9,
+          "id": 116,
+          "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+          "x": 525.0,
+          "y": 644.0
+        },
+        {
+          "orden": 10,
+          "id": 137,
+          "nombre": "Museo Nacional FNG",
+          "x": 592.0,
+          "y": 172.0
+        },
+        {
+          "orden": 11,
+          "id": 138,
+          "nombre": "San Diego",
+          "x": 622.0,
+          "y": 172.0
+        }
+      ],
+      "direcciones": [
+        {
+          "origen": "Aeropuerto Eldorado",
+          "destino": "Hacienda Santa Bárbara",
+          "variante": null,
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Aeropuerto Eldorado",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Hacienda Santa Bárbara",
+            "fuente": "servicio_especial"
+          },
+          "estado": "punto_especial_pendiente"
+        },
+        {
+          "origen": "Aeropuerto Eldorado",
+          "destino": "Hacienda Santa Bárbara",
+          "variante": "Ciclovía",
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Aeropuerto Eldorado",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Hacienda Santa Bárbara",
+            "fuente": "servicio_especial"
+          },
+          "estado": "punto_especial_pendiente"
+        }
+      ]
+    },
+    "K86": {
+      "servicio": "K86",
+      "horario": "K86 - De Fundación Santa Fe a Aeropuerto Eldorado: &nbsp L-S 5:30 AM a 11:00 PM &nbsp|&nbsp D-F 5:30 AM a 10:00 PM <br> K86 - De Fundación Santa Fe a Aeropuerto Eldorado [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM ",
+      "estaciones_base": [
+        {
+          "orden": 1,
+          "id": 105,
+          "nombre": "Concejo de Bogotá",
+          "x": 614.0,
+          "y": 317.0
+        },
+        {
+          "orden": 2,
+          "id": 107,
+          "nombre": "Corferias",
+          "x": 560.0,
+          "y": 422.0
+        },
+        {
+          "orden": 3,
+          "id": 108,
+          "nombre": "Quinta Paredes",
+          "x": 540.0,
+          "y": 447.0
+        },
+        {
+          "orden": 4,
+          "id": 109,
+          "nombre": "Gobernación",
+          "x": 525.0,
+          "y": 470.0
+        },
+        {
+          "orden": 5,
+          "id": 110,
+          "nombre": "CAN British Council",
+          "x": 525.0,
+          "y": 493.0
+        },
+        {
+          "orden": 6,
+          "id": 111,
+          "nombre": "Salitre - El Greco",
+          "x": 525.0,
+          "y": 517.0
+        },
+        {
+          "orden": 7,
+          "id": 112,
+          "nombre": "El Tiempo Cámara de Comercio de Bogotá",
+          "x": 525.0,
+          "y": 542.0
+        },
+        {
+          "orden": 8,
+          "id": 113,
+          "nombre": "Av. Rojas - Unisalesiana",
+          "x": 525.0,
+          "y": 566.0
+        },
+        {
+          "orden": 9,
+          "id": 116,
+          "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+          "x": 525.0,
+          "y": 644.0
+        },
+        {
+          "orden": 10,
+          "id": 137,
+          "nombre": "Museo Nacional FNG",
+          "x": 592.0,
+          "y": 172.0
+        }
+      ],
+      "direcciones": [
+        {
+          "origen": "Fundación Santa Fe",
+          "destino": "Aeropuerto Eldorado",
+          "variante": null,
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Fundación Santa Fe",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Aeropuerto Eldorado",
+            "fuente": "servicio_especial"
+          },
+          "estado": "punto_especial_pendiente"
+        },
+        {
+          "origen": "Fundación Santa Fe",
+          "destino": "Aeropuerto Eldorado",
+          "variante": "Ciclovía",
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Fundación Santa Fe",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Aeropuerto Eldorado",
+            "fuente": "servicio_especial"
+          },
+          "estado": "punto_especial_pendiente"
+        }
+      ]
+    },
+    "M82": {
+      "servicio": "M82",
+      "horario": "M82 - De Portal 20 de Julio a Clínica El Bosque: &nbsp L-S 4:00 AM a 11:00 PM &nbsp|&nbsp D-F 4:30 AM a 10:00 PM <br> M82 - De Portal 20 de Julio a Clínica El Bosque [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+      "estaciones_base": [
+        {
+          "orden": 1,
+          "id": 138,
+          "nombre": "San Diego",
+          "x": 622.0,
+          "y": 172.0
+        },
+        {
+          "orden": 2,
+          "id": 141,
+          "nombre": "Bicentenario",
+          "x": 724.0,
+          "y": 172.0
+        },
+        {
+          "orden": 3,
+          "id": 145,
+          "nombre": "AV 1° de Mayo",
+          "x": 815.0,
+          "y": 172.0
+        },
+        {
+          "orden": 4,
+          "id": 146,
+          "nombre": "Country Sur",
+          "x": 838.0,
+          "y": 172.0
+        },
+        {
+          "orden": 5,
+          "id": 147,
+          "nombre": "Portal 20 de Julio",
+          "x": 866.0,
+          "y": 172.0
+        }
+      ],
+      "direcciones": [
+        {
+          "origen": "Portal 20 de Julio",
+          "destino": "Clínica El Bosque",
+          "variante": null,
+          "origen_info": {
+            "tipo": "estacion",
+            "id": 147,
+            "nombre": "Portal 20 de Julio",
+            "fuente": "coincidencia_exacta"
+          },
+          "destino_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Clínica El Bosque",
+            "fuente": "servicio_especial"
+          },
+          "estado": "punto_especial_pendiente"
+        },
+        {
+          "origen": "Portal 20 de Julio",
+          "destino": "Clínica El Bosque",
+          "variante": "Ciclovía",
+          "origen_info": {
+            "tipo": "estacion",
+            "id": 147,
+            "nombre": "Portal 20 de Julio",
+            "fuente": "coincidencia_exacta"
+          },
+          "destino_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Clínica El Bosque",
+            "fuente": "servicio_especial"
+          },
+          "estado": "punto_especial_pendiente"
+        }
+      ]
+    },
+    "L82": {
+      "servicio": "L82",
+      "horario": "L82 - De Ginebra Norte a Portal 20 de Julio: &nbsp L-V 4:30 AM a 11:00 PM &nbsp|&nbsp S 5:00 AM a 11:00 PM &nbsp|&nbsp D-F 5:30 AM a 10:00 PM <br> L82 - De Ginebra Norte a Portal 20 de Julio [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+      "estaciones_base": [
+        {
+          "orden": 1,
+          "id": 138,
+          "nombre": "San Diego",
+          "x": 622.0,
+          "y": 172.0
+        },
+        {
+          "orden": 2,
+          "id": 141,
+          "nombre": "Bicentenario",
+          "x": 724.0,
+          "y": 172.0
+        },
+        {
+          "orden": 3,
+          "id": 145,
+          "nombre": "AV 1° de Mayo",
+          "x": 815.0,
+          "y": 172.0
+        },
+        {
+          "orden": 4,
+          "id": 146,
+          "nombre": "Country Sur",
+          "x": 838.0,
+          "y": 172.0
+        },
+        {
+          "orden": 5,
+          "id": 147,
+          "nombre": "Portal 20 de Julio",
+          "x": 866.0,
+          "y": 172.0
+        }
+      ],
+      "direcciones": [
+        {
+          "origen": "Ginebra Norte",
+          "destino": "Portal 20 de Julio",
+          "variante": null,
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Ginebra Norte",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "estacion",
+            "id": 147,
+            "nombre": "Portal 20 de Julio",
+            "fuente": "coincidencia_exacta"
+          },
+          "estado": "punto_especial_pendiente"
+        },
+        {
+          "origen": "Ginebra Norte",
+          "destino": "Portal 20 de Julio",
+          "variante": "Ciclovía",
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Ginebra Norte",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "estacion",
+            "id": 147,
+            "nombre": "Portal 20 de Julio",
+            "fuente": "coincidencia_exacta"
+          },
+          "estado": "punto_especial_pendiente"
+        }
+      ]
+    },
+    "D81": {
+      "servicio": "D81",
+      "horario": "D81 - De Portal 20 de Julio a CL 80 Pte de Guadua: &nbsp L-S 4:00 AM a 11:00 PM &nbsp|&nbsp D-F 4:30 AM a 10:00 PM <br> D81 - De Portal 20 de Julio a CL 80 Pte de Guadua [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+      "estaciones_base": [
+        {
+          "orden": 1,
+          "id": 90,
+          "nombre": "Polo - Fincomercio",
+          "x": 398.0,
+          "y": 300.0
+        },
+        {
+          "orden": 2,
+          "id": 92,
+          "nombre": "Carrera 47",
+          "x": 336.0,
+          "y": 382.0
+        },
+        {
+          "orden": 3,
+          "id": 94,
+          "nombre": "Avenida 68",
+          "x": 302.0,
+          "y": 416.0
+        },
+        {
+          "orden": 4,
+          "id": 137,
+          "nombre": "Museo Nacional FNG",
+          "x": 592.0,
+          "y": 172.0
+        },
+        {
+          "orden": 5,
+          "id": 140,
+          "nombre": "San Victorino",
+          "x": 680.0,
+          "y": 172.0
+        },
+        {
+          "orden": 6,
+          "id": 141,
+          "nombre": "Bicentenario",
+          "x": 724.0,
+          "y": 172.0
+        },
+        {
+          "orden": 7,
+          "id": 145,
+          "nombre": "AV 1° de Mayo",
+          "x": 815.0,
+          "y": 172.0
+        },
+        {
+          "orden": 8,
+          "id": 146,
+          "nombre": "Country Sur",
+          "x": 838.0,
+          "y": 172.0
+        },
+        {
+          "orden": 9,
+          "id": 147,
+          "nombre": "Portal 20 de Julio",
+          "x": 866.0,
+          "y": 172.0
+        }
+      ],
+      "direcciones": [
+        {
+          "origen": "Portal 20 de Julio",
+          "destino": "CL 80 Pte de Guadua",
+          "variante": null,
+          "origen_info": {
+            "tipo": "estacion",
+            "id": 147,
+            "nombre": "Portal 20 de Julio",
+            "fuente": "coincidencia_exacta"
+          },
+          "destino_info": null,
+          "estado": "pendiente"
+        },
+        {
+          "origen": "Portal 20 de Julio",
+          "destino": "CL 80 Pte de Guadua",
+          "variante": "Ciclovía",
+          "origen_info": {
+            "tipo": "estacion",
+            "id": 147,
+            "nombre": "Portal 20 de Julio",
+            "fuente": "coincidencia_exacta"
+          },
+          "destino_info": null,
+          "estado": "pendiente"
+        }
+      ]
+    },
+    "L81": {
+      "servicio": "L81",
+      "horario": "L81 - De Puente de Guadua a Portal 20 de Julio: &nbsp L-S 5:00 AM a 11:00 PM &nbsp|&nbsp D-F 5:00 AM a 10:00 PM <br> L81 - De Puente de Guadua a Portal 20 de Julio [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+      "estaciones_base": [
+        {
+          "orden": 1,
+          "id": 90,
+          "nombre": "Polo - Fincomercio",
+          "x": 398.0,
+          "y": 300.0
+        },
+        {
+          "orden": 2,
+          "id": 92,
+          "nombre": "Carrera 47",
+          "x": 336.0,
+          "y": 382.0
+        },
+        {
+          "orden": 3,
+          "id": 94,
+          "nombre": "Avenida 68",
+          "x": 302.0,
+          "y": 416.0
+        },
+        {
+          "orden": 4,
+          "id": 137,
+          "nombre": "Museo Nacional FNG",
+          "x": 592.0,
+          "y": 172.0
+        },
+        {
+          "orden": 5,
+          "id": 140,
+          "nombre": "San Victorino",
+          "x": 680.0,
+          "y": 172.0
+        },
+        {
+          "orden": 6,
+          "id": 141,
+          "nombre": "Bicentenario",
+          "x": 724.0,
+          "y": 172.0
+        },
+        {
+          "orden": 7,
+          "id": 145,
+          "nombre": "AV 1° de Mayo",
+          "x": 815.0,
+          "y": 172.0
+        },
+        {
+          "orden": 8,
+          "id": 146,
+          "nombre": "Country Sur",
+          "x": 838.0,
+          "y": 172.0
+        },
+        {
+          "orden": 9,
+          "id": 147,
+          "nombre": "Portal 20 de Julio",
+          "x": 866.0,
+          "y": 172.0
+        }
+      ],
+      "direcciones": [
+        {
+          "origen": "Puente de Guadua",
+          "destino": "Portal 20 de Julio",
+          "variante": null,
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Puente de Guadua",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "estacion",
+            "id": 147,
+            "nombre": "Portal 20 de Julio",
+            "fuente": "coincidencia_exacta"
+          },
+          "estado": "punto_especial_pendiente"
+        },
+        {
+          "origen": "Puente de Guadua",
+          "destino": "Portal 20 de Julio",
+          "variante": "Ciclovía",
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "Puente de Guadua",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "estacion",
+            "id": 147,
+            "nombre": "Portal 20 de Julio",
+            "fuente": "coincidencia_exacta"
+          },
+          "estado": "punto_especial_pendiente"
+        }
+      ]
+    },
+    "M84": {
+      "servicio": "M84",
+      "horario": "M84 - De ETB Tibabuyes a K7 con Calle 72: &nbsp L-S 5:00 AM a 11:00 PM &nbsp|&nbsp D-F 5:00 AM a 10:00 PM",
+      "estaciones_base": [
+        {
+          "orden": 1,
+          "id": 51,
+          "nombre": "21 Ángeles",
+          "x": 156.0,
+          "y": 430.0
+        },
+        {
+          "orden": 2,
+          "id": 57,
+          "nombre": "Puentelargo",
+          "x": 232.0,
+          "y": 355.0
+        },
+        {
+          "orden": 3,
+          "id": 90,
+          "nombre": "Polo - Fincomercio",
+          "x": 398.0,
+          "y": 300.0
+        }
+      ],
+      "direcciones": [
+        {
+          "origen": "ETB Tibabuyes",
+          "destino": "K7 con Calle 72",
+          "variante": null,
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "ETB Tibabuyes",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "K7 con Calle 72",
+            "fuente": "servicio_especial"
+          },
+          "estado": "punto_especial_pendiente"
+        }
+      ]
+    },
+    "C84": {
+      "servicio": "C84",
+      "horario": "C84 - De K7 con Calle 72 a ETB Tibabuyes: &nbsp L-S 6:00 AM a 22:00 PM &nbsp|&nbsp D-F 6:00 AM a 21:00 PM",
+      "estaciones_base": [
+        {
+          "orden": 1,
+          "id": 51,
+          "nombre": "21 Ángeles",
+          "x": 156.0,
+          "y": 430.0
+        },
+        {
+          "orden": 2,
+          "id": 57,
+          "nombre": "Puentelargo",
+          "x": 232.0,
+          "y": 355.0
+        },
+        {
+          "orden": 3,
+          "id": 90,
+          "nombre": "Polo - Fincomercio",
+          "x": 398.0,
+          "y": 300.0
+        }
+      ],
+      "direcciones": [
+        {
+          "origen": "K7 con Calle 72",
+          "destino": "ETB Tibabuyes",
+          "variante": null,
+          "origen_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "K7 con Calle 72",
+            "fuente": "servicio_especial"
+          },
+          "destino_info": {
+            "tipo": "punto_especial",
+            "id": null,
+            "nombre": "ETB Tibabuyes",
+            "fuente": "servicio_especial"
+          },
+          "estado": "punto_especial_pendiente"
         }
       ]
     }
