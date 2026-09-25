@@ -1,0 +1,3 @@
+# TransMi Route
+# Este proyecto utiliza únicamente librerías de la biblioteca estándar de Python.
+# No se requieren dependencias externas para ejecutar la aplicación.
