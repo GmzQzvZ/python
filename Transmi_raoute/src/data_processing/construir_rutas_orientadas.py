@@ -60,8 +60,8 @@ ALIAS = {
     "calle 76": "calle 76 - san felipe",
 
     "portal eldorado": (
-        "&nbsp &nbsp &nbsp portal eldorado "
-        "&nbsp &nbsp &nbsp cc nuestro bogota"
+        " portal eldorado "
+        " cc nuestro bogota"
     ),
 
     "portal de las americas": "portal americas",

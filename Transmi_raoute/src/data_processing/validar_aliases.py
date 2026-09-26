@@ -159,7 +159,7 @@ ALIAS = {
         "portal el dorado",
 
     "portal eldorado":
-        "&nbsp &nbsp &nbsp portal eldorado &nbsp &nbsp &nbsp cc nuestro bogota",
+        " portal eldorado  cc nuestro bogota",
 
 }
 

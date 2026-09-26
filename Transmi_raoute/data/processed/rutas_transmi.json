@@ -70,7 +70,7 @@
         },
         "1": {
             "servicio": "1",
-            "horario": "1 - De Portal Eldorado a Universidades: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbspD-F 4:30 AM a 10:00 PM <br> 1 - De Universidades a Portal Eldorado: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbspD-F 4:30 AM a 10:00 PM",
+            "horario": "1 - De Portal Eldorado a Universidades:  L-S 4:30 AM a 11:00 PM | D-F 4:30 AM a 10:00 PM <br> 1 - De Universidades a Portal Eldorado:  L-S 4:30 AM a 11:00 PM | D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -166,7 +166,7 @@
                 {
                     "orden": 14,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 }
@@ -183,7 +183,7 @@
         },
         "2": {
             "servicio": "2",
-            "horario": "2 - De Portal 20 de Julio a Museo Nacional: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM <br> 2 - De Museo Nacional a Portal 20 de Julio: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "2 - De Portal 20 de Julio a Museo Nacional:  L-S 4:00 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM <br> 2 - De Museo Nacional a Portal 20 de Julio:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -272,7 +272,7 @@
         },
         "3": {
             "servicio": "3",
-            "horario": "3 - De Portal Tunal a Corferias: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:00 AM a 10:00 PM <br>3 - De Corferias a Portal Tunal: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:30 PM",
+            "horario": "3 - De Portal Tunal a Corferias:  L-S 4:00 AM a 11:00 PM |  D-F 4:00 AM a 10:00 PM <br>3 - De Corferias a Portal Tunal:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -408,7 +408,7 @@
         },
         "4": {
             "servicio": "4",
-            "horario": "4 - De Portal del Sur a Héroes: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:00 AM a 10:00 PM <br> 4 - De Héroes a Portal del Sur: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "4 - De Portal del Sur a Héroes:  L-S 4:00 AM a 11:00 PM |  D-F 4:00 AM a 10:00 PM <br> 4 - De Héroes a Portal del Sur:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -597,7 +597,7 @@
         },
         "5": {
             "servicio": "5",
-            "horario": "5 - De Portal Américas a Calle 22: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:00 AM a 10:00 PM <br> 5 - De Calle 22 a Portal Américas: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "5 - De Portal Américas a Calle 22:  L-S 4:00 AM a 11:00 PM |  D-F 4:00 AM a 10:00 PM <br> 5 - De Calle 22 a Portal Américas:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -738,7 +738,7 @@
         },
         "6": {
             "servicio": "6",
-            "horario": "6 - De Portal de la 80 a Universidades: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM <br>6 - De  Universidades a Portal de la 80: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "6 - De Portal de la 80 a Universidades:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM <br>6 - De  Universidades a Portal de la 80:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -888,7 +888,7 @@
         },
         "7": {
             "servicio": "7",
-            "horario": "7 - De Portal Suba a Polo - Fincomercio: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM <br> 7 - De  Polo - Fincomercio a Portal Suba: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "7 - De Portal Suba a Polo - Fincomercio:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM <br> 7 - De  Polo - Fincomercio a Portal Suba:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -1013,7 +1013,7 @@
         },
         "8": {
             "servicio": "8",
-            "horario": "8 - De Terminal a Guatoque Veraguas: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM <br>8 - De Guatoque Veraguas a Terminal: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "8 - De Terminal a Guatoque Veraguas:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM <br>8 - De Guatoque Veraguas a Terminal:  L-S 4:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -1199,7 +1199,7 @@
         },
         "A52": {
             "servicio": "A52",
-            "horario": "A52 - De Portal del Sur a Flores: &nbsp L-V 5:00 AM a 8:30 AM",
+            "horario": "A52 - De Portal del Sur a Flores:  L-V 5:00 AM a 8:30 AM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -1290,7 +1290,7 @@
         },
         "A60": {
             "servicio": "A60",
-            "horario": "A60 - De Portal Américas a Calle 76: &nbsp L-S 4:30 AM a 9:30 PM&nbsp | &nbspD-F 4:00 AM a 10:00 PM",
+            "horario": "A60 - De Portal Américas a Calle 76:  L-S 4:30 AM a 9:30 PM | D-F 4:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -1371,7 +1371,7 @@
         },
         "A61": {
             "servicio": "A61",
-            "horario": "A61 - De Portal Américas a Polo - Fincomercio: &nbsp L-V 4:30 AM a 9:00 AM",
+            "horario": "A61 - De Portal Américas a Polo - Fincomercio:  L-V 4:30 AM a 9:00 AM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -1461,7 +1461,7 @@
         },
         "B10": {
             "servicio": "B10",
-            "horario": "B10 - De Portal de la 80 a Portal del Norte: &nbsp L-V 4:30 AM a 9:30 PM &nbsp | &nbsp S 5:30 AM a 9:30 PM &nbsp | &nbsp D-F 6:30 AM a 8:00 PM",
+            "horario": "B10 - De Portal de la 80 a Portal del Norte:  L-V 4:30 AM a 9:30 PM  |  S 5:30 AM a 9:30 PM  |  D-F 6:30 AM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -1568,7 +1568,7 @@
         },
         "B11": {
             "servicio": "B11",
-            "horario": "B11 - De Portal del Sur a Terminal: &nbsp L-V 5:00 AM a 9:00 PM&nbsp | &nbsp S 6:00 AM a 9:30 PM",
+            "horario": "B11 - De Portal del Sur a Terminal:  L-V 5:00 AM a 9:00 PM |  S 6:00 AM a 9:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -1712,7 +1712,7 @@
         },
         "B12": {
             "servicio": "B12",
-            "horario": "B12 - De Portal del Sur a Portal Norte: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbspD-F 4:00 AM a 10:00 PM",
+            "horario": "B12 - De Portal del Sur a Portal Norte:  L-S 4:00 AM a 11:00 PM | D-F 4:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -1846,7 +1846,7 @@
         },
         "B13": {
             "servicio": "B13",
-            "horario": "B13 - De Portal Tunal a Portal Norte: &nbsp L-V 5:00 AM a 10:00 PM&nbsp | &nbsp S 5:30 AM a 9:30 PM",
+            "horario": "B13 - De Portal Tunal a Portal Norte:  L-V 5:00 AM a 10:00 PM |  S 5:30 AM a 9:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -1978,7 +1978,7 @@
         },
         "B16": {
             "servicio": "B16",
-            "horario": "B16 - De Portal Eldorado a Terminal: &nbsp L-V 5:30 AM a 10:30 PM&nbsp | &nbspS 5:30 AM a 10:00 PM",
+            "horario": "B16 - De Portal Eldorado a Terminal:  L-V 5:30 AM a 10:30 PM | S 5:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -2081,7 +2081,7 @@
                 {
                     "orden": 15,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 }
@@ -2105,7 +2105,7 @@
         },
         "B18": {
             "servicio": "B18",
-            "horario": "B18 - De Portal 20 de Julio a Terminal: &nbsp L-V 4:30 AM a 10:00 PM&nbsp | &nbsp S 4:30 AM a 9:30 PM",
+            "horario": "B18 - De Portal 20 de Julio a Terminal:  L-V 4:30 AM a 10:00 PM |  S 4:30 AM a 9:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -2229,7 +2229,7 @@
         },
         "B23": {
             "servicio": "B23",
-            "horario": "B23 - De Portal Eldorado a Alcalá: &nbsp L-V 5:00 AM a 10:00 PM&nbsp | &nbsp S 5:30 AM a 10:00 PM",
+            "horario": "B23 - De Portal Eldorado a Alcalá:  L-V 5:00 AM a 10:00 PM |  S 5:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -2332,7 +2332,7 @@
                 {
                     "orden": 15,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 }
@@ -2351,7 +2351,7 @@
         },
         "B26": {
             "servicio": "B26",
-            "horario": "B26 - De Portal Américas a Alcalá: &nbsp L-S 4:30 AM a 9:00 AM",
+            "horario": "B26 - De Portal Américas a Alcalá:  L-S 4:30 AM a 9:00 AM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -2458,7 +2458,7 @@
         },
         "B27": {
             "servicio": "B27",
-            "horario": "B27 - De Portal Tunal a Portal Norte: &nbsp L-V 5:30 AM a 9:00 AM&nbsp | &nbspL-V 4:00 PM a 8:00 PM",
+            "horario": "B27 - De Portal Tunal a Portal Norte:  L-V 5:30 AM a 9:00 AM | L-V 4:00 PM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -2548,7 +2548,7 @@
         },
         "B28": {
             "servicio": "B28",
-            "horario": "B28 - De Portal Américas a Portal Norte: &nbsp L-S 4:00 AM a 8:00 PM",
+            "horario": "B28 - De Portal Américas a Portal Norte:  L-S 4:00 AM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -2655,7 +2655,7 @@
         },
         "B46": {
             "servicio": "B46",
-            "horario": "B46 - De San Mateo a Portal Norte: &nbsp L-S 4:00 AM a 9:00 AM&nbsp | &nbsp L-S 3:00 PM a 8:00 PM",
+            "horario": "B46 - De San Mateo a Portal Norte:  L-S 4:00 AM a 9:00 AM |  L-S 3:00 PM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -2742,7 +2742,7 @@
         },
         "B50": {
             "servicio": "B50",
-            "horario": "B50 - De Portal Suba a Calle 161: &nbsp L-V 5:30 AM a 8:30 AM",
+            "horario": "B50 - De Portal Suba a Calle 161:  L-V 5:30 AM a 8:30 AM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -2850,7 +2850,7 @@
         },
         "B55": {
             "servicio": "B55",
-            "horario": "B55 - De Portal Calle 80 a Toberín: &nbsp L-V 5:00 AM a 8:30 AM",
+            "horario": "B55 - De Portal Calle 80 a Toberín:  L-V 5:00 AM a 8:30 AM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -2971,7 +2971,7 @@
         },
         "B72": {
             "servicio": "B72",
-            "horario": "B72 - De Portal Usme a Toberín: &nbsp L-S 4:30 AM a 11:00 PM &nbsp | &nbsp D-F 4:00 AM a 10:00 PM",
+            "horario": "B72 - De Portal Usme a Toberín:  L-S 4:30 AM a 11:00 PM  |  D-F 4:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -3098,7 +3098,7 @@
         },
         "B74": {
             "servicio": "B74",
-            "horario": "B74 - De Las Aguas a Portal Norte: &nbsp L-V 6:00 AM a 10:30 PM &nbsp | &nbsp S 7:00 AM a 8:30 PM",
+            "horario": "B74 - De Las Aguas a Portal Norte:  L-V 6:00 AM a 10:30 PM  |  S 7:00 AM a 8:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -3193,7 +3193,7 @@
         },
         "B75": {
             "servicio": "B75",
-            "horario": "B75 - De Portal Usme a Portal Norte: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbspD-F 4:00 AM a 10:00 PM",
+            "horario": "B75 - De Portal Usme a Portal Norte:  L-S 4:00 AM a 11:00 PM | D-F 4:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -3338,7 +3338,7 @@
         },
         "C15": {
             "servicio": "C15",
-            "horario": "C15 - De Portal Tunal a Portal Suba: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:00 AM a 10:00 PM",
+            "horario": "C15 - De Portal Tunal a Portal Suba:  L-S 4:00 AM a 11:00 PM |  D-F 4:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -3485,7 +3485,7 @@
         },
         "C17": {
             "servicio": "C17",
-            "horario": "C17 - De Portal Usme a Portal Suba: &nbsp L-V 4:00 AM a 8:00 PM &nbsp | &nbsp S 4:00 AM a 3:00 PM ",
+            "horario": "C17 - De Portal Usme a Portal Suba:  L-V 4:00 AM a 8:00 PM  |  S 4:00 AM a 3:00 PM ",
             "estaciones": [
                 {
                     "orden": 1,
@@ -3661,7 +3661,7 @@
         },
         "C19": {
             "servicio": "C19",
-            "horario": "C19 - De Banderas a Portal Suba: &nbsp L-V 5:00 AM a 10:00 PM &nbsp | &nbsp S 5:30 AM a 10:00 PM",
+            "horario": "C19 - De Banderas a Portal Suba:  L-V 5:00 AM a 10:00 PM  |  S 5:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -3793,7 +3793,7 @@
         },
         "C25": {
             "servicio": "C25",
-            "horario": "C25 - De Portal 20 de Julio a Portal Suba: &nbsp L-V 4:30 AM a 10:00 PM &nbsp | &nbsp S 5:00 AM a 8:00 PM  &nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "C25 - De Portal 20 de Julio a Portal Suba:  L-V 4:30 AM a 10:00 PM  |  S 5:00 AM a 8:00 PM   |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -3954,7 +3954,7 @@
         },
         "C30": {
             "servicio": "C30",
-            "horario": "C30 - De Portal del Sur a Portal Suba:  &nbsp L-V 5:00 AM a 9:00 AM &nbsp | &nbsp L-V 3:00 PM a 8:00 PM  &nbsp | &nbsp S 5:00 AM a 3:00 PM ",
+            "horario": "C30 - De Portal del Sur a Portal Suba:   L-V 5:00 AM a 9:00 AM  |  L-V 3:00 PM a 8:00 PM   |  S 5:00 AM a 3:00 PM ",
             "estaciones": [
                 {
                     "orden": 1,
@@ -4073,7 +4073,7 @@
         },
         "C50": {
             "servicio": "C50",
-            "horario": "C50 - De Calle 161 a Portal Suba: &nbspL-V 4:30 PM a 8:00 PM",
+            "horario": "C50 - De Calle 161 a Portal Suba: L-V 4:30 PM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -4181,7 +4181,7 @@
         },
         "C73": {
             "servicio": "C73",
-            "horario": "C73 - De Universidades a Portal Suba: &nbsp L-V 4:00 PM a 10:30 PM",
+            "horario": "C73 - De Universidades a Portal Suba:  L-V 4:00 PM a 10:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -4266,7 +4266,7 @@
         },
         "D10": {
             "servicio": "D10",
-            "horario": "D10 - De Portal del Norte a Portal de la 80: &nbsp L-V 5:00 AM a 10:00 PM &nbsp | &nbsp S 6:00 AM a 10:00 PM &nbsp | &nbsp D-F 6:30 AM a 8:00 PM",
+            "horario": "D10 - De Portal del Norte a Portal de la 80:  L-V 5:00 AM a 10:00 PM  |  S 6:00 AM a 10:00 PM  |  D-F 6:30 AM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -4380,7 +4380,7 @@
         },
         "D20": {
             "servicio": "D20",
-            "horario": "D20 - De Portal Usme a Portal de la 80: &nbsp L-V 5:00 AM a 10:00 PM &nbsp | &nbsp S 6:00 AM a 8:00 PM",
+            "horario": "D20 - De Portal Usme a Portal de la 80:  L-V 5:00 AM a 10:00 PM  |  S 6:00 AM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -4518,7 +4518,7 @@
         },
         "D21": {
             "servicio": "D21",
-            "horario": "D21 - De Portal Tunal a Portal Calle 80: &nbsp L-S 4:00 AM a 11:00 PM",
+            "horario": "D21 - De Portal Tunal a Portal Calle 80:  L-S 4:00 AM a 11:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -4645,7 +4645,7 @@
         },
         "D22": {
             "servicio": "D22",
-            "horario": "D22 - De Portal del Sur a Portal de la 80: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbspD-F 5:30 AM a 10:00 PM",
+            "horario": "D22 - De Portal del Sur a Portal de la 80:  L-S 4:30 AM a 11:00 PM | D-F 5:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -4770,7 +4770,7 @@
         },
         "D24": {
             "servicio": "D24",
-            "horario": "D24 - De Universidades a Portal de la 80: &nbsp L-V 6:00 AM a 11:00 PM &nbsp | &nbsp S 6:00 AM a 9:00 PM",
+            "horario": "D24 - De Universidades a Portal de la 80:  L-V 6:00 AM a 11:00 PM  |  S 6:00 AM a 9:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -4856,7 +4856,7 @@
         },
         "D55": {
             "servicio": "D55",
-            "horario": "D55 - De Toberín a Portal Calle 80: &nbsp L-V 3:00 PM a 8:00 PM",
+            "horario": "D55 - De Toberín a Portal Calle 80:  L-V 3:00 PM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -4977,7 +4977,7 @@
         },
         "E32": {
             "servicio": "E32",
-            "horario": "E32 - De  Portal de las Américas a NQS a Calle 75: &nbsp L-V 4:00 AM a 9:00 PM&nbsp | &nbsp S 4:00 AM a 8:00 PM &nbsp | &nbsp D-F 5:00 AM a 10:00 PM",
+            "horario": "E32 - De  Portal de las Américas a NQS a Calle 75:  L-V 4:00 AM a 9:00 PM |  S 4:00 AM a 8:00 PM  |  D-F 5:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5078,7 +5078,7 @@
         },
         "E42": {
             "servicio": "E42",
-            "horario": "E42 - De San Mateo a 7 de Agosto: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:00 AM a 10:00 PM",
+            "horario": "E42 - De San Mateo a 7 de Agosto:  L-S 4:00 AM a 11:00 PM |  D-F 4:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5165,7 +5165,7 @@
         },
         "F19": {
             "servicio": "F19",
-            "horario": "F19 - De Portal Suba a Banderas: &nbsp L-S 4:30 AM a 10:00 PM",
+            "horario": "F19 - De Portal Suba a Banderas:  L-S 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5297,7 +5297,7 @@
         },
         "F23": {
             "servicio": "F23",
-            "horario": "F23 - De Las Aguas a Portal de las Américas: &nbsp L-S 5:00 AM a 11:00 PM &nbsp | &nbsp F 5:30 AM a 10:00 PM",
+            "horario": "F23 - De Las Aguas a Portal de las Américas:  L-S 5:00 AM a 11:00 PM  |  F 5:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5384,7 +5384,7 @@
         },
         "F26": {
             "servicio": "F26",
-            "horario": "F26 - De Alcalá a Portal Américas: &nbsp L-V 3:00 PM a 8:00 PM &nbsp | &nbsp S 12:00 PM a 6:00 PM",
+            "horario": "F26 - De Alcalá a Portal Américas:  L-V 3:00 PM a 8:00 PM  |  S 12:00 PM a 6:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5491,7 +5491,7 @@
         },
         "F28": {
             "servicio": "F28",
-            "horario": "F28 - De Portal Norte a Portal Américas: &nbsp L-S 5:00 AM a 08:00 PM",
+            "horario": "F28 - De Portal Norte a Portal Américas:  L-S 5:00 AM a 08:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5598,7 +5598,7 @@
         },
         "F32": {
             "servicio": "F32",
-            "horario": "F32 - De NQS a Calle 75 a Portal de las Américas: &nbsp L-V 5:00 AM a 10:00 PM&nbsp | &nbsp S 5:00 AM a 8:00 PM &nbsp | &nbsp D-F 5:30 AM a 10:00 PM",
+            "horario": "F32 - De NQS a Calle 75 a Portal de las Américas:  L-V 5:00 AM a 10:00 PM |  S 5:00 AM a 8:00 PM  |  D-F 5:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5699,7 +5699,7 @@
         },
         "F51": {
             "servicio": "F51",
-            "horario": "F51 - De Museo Nacional a Portal de las Américas: &nbsp L-S 5:00 AM a 11:00 PM",
+            "horario": "F51 - De Museo Nacional a Portal de las Américas:  L-S 5:00 AM a 11:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5793,7 +5793,7 @@
         },
         "F60": {
             "servicio": "F60",
-            "horario": "F60 - De Calle 76 a Portal Américas: &nbsp L-V 5:00 AM a 10:30 PM &nbsp | &nbsp S-F 5:00 AM a 10:00 PM",
+            "horario": "F60 - De Calle 76 a Portal Américas:  L-V 5:00 AM a 10:30 PM  |  S-F 5:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5874,7 +5874,7 @@
         },
         "F61": {
             "servicio": "F61",
-            "horario": "F61 - De Polo - Fincomercio a Portal Américas: &nbsp L-V 3:00 PM a 8:00 PM",
+            "horario": "F61 - De Polo - Fincomercio a Portal Américas:  L-V 3:00 PM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -5964,7 +5964,7 @@
         },
         "G11": {
             "servicio": "G11",
-            "horario": "G11 - De Terminal a Portal del Sur: &nbsp L-V 6:00 AM a 10:00 PM &nbsp | &nbsp S 6:30 AM a 10:00 PM",
+            "horario": "G11 - De Terminal a Portal del Sur:  L-V 6:00 AM a 10:00 PM  |  S 6:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -6108,7 +6108,7 @@
         },
         "G12": {
             "servicio": "G12",
-            "horario": "G12 - De Portal del Norte a Portal del Sur: &nbsp L-S 4:30 AM a 11:00 PM &nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "G12 - De Portal del Norte a Portal del Sur:  L-S 4:30 AM a 11:00 PM  |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -6242,7 +6242,7 @@
         },
         "G22": {
             "servicio": "G22",
-            "horario": "G22 - De Portal de la 80 a Portal del Sur: &nbsp L-S 5:00 AM a 11:00 PM&nbsp | &nbsp D-F 5:30 AM a 10:00 PM",
+            "horario": "G22 - De Portal de la 80 a Portal del Sur:  L-S 5:00 AM a 11:00 PM |  D-F 5:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -6367,7 +6367,7 @@
         },
         "G30": {
             "servicio": "G30",
-            "horario": "G30 - De Portal Suba a Portal del Sur: &nbsp L-V 5:00 AM a 9:00 AM &nbsp | &nbsp L-V 3:00 PM a 8:00 PM &nbsp | &nbsp S 5:00 AM a 3:00 PM",
+            "horario": "G30 - De Portal Suba a Portal del Sur:  L-V 5:00 AM a 9:00 AM  |  L-V 3:00 PM a 8:00 PM  |  S 5:00 AM a 3:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -6486,7 +6486,7 @@
         },
         "G41": {
             "servicio": "G41",
-            "horario": "G41 - De Bicentenario a San Mateo: &nbsp L-S 5:00 AM a 9:00 PM",
+            "horario": "G41 - De Bicentenario a San Mateo:  L-S 5:00 AM a 9:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -6557,7 +6557,7 @@
         },
         "G42": {
             "servicio": "G42",
-            "horario": "G42 - De 7 de Agosto a San Mateo: &nbsp L-V 4:30 AM a 11:00 PM &nbsp | &nbsp S 5:00 AM a 11:00 PM | &nbsp D-F 5:00 AM a 10:00 PM",
+            "horario": "G42 - De 7 de Agosto a San Mateo:  L-V 4:30 AM a 11:00 PM  |  S 5:00 AM a 11:00 PM |  D-F 5:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -6644,7 +6644,7 @@
         },
         "G43": {
             "servicio": "G43",
-            "horario": "G43 - De Portal Eldorado a San Mateo: &nbsp L-S 5:00 AM a 11:00 PM &nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "G43 - De Portal Eldorado a San Mateo:  L-S 5:00 AM a 11:00 PM  |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -6754,7 +6754,7 @@
                 {
                     "orden": 16,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 }
@@ -6776,7 +6776,7 @@
         },
         "G45": {
             "servicio": "G45",
-            "horario": "G45 - De Portal del Sur a San Mateo: &nbsp L-S 5:00 AM a 8:00 AM&nbsp | &nbsp L-V 4:30 PM a 9:30 PM <br> G45 - De  San Mateo a Portal del Sur: &nbsp L-S 5:00 AM a 8:00 AM&nbsp | &nbsp L-V 4:30 PM a 9:30 PM",
+            "horario": "G45 - De Portal del Sur a San Mateo:  L-S 5:00 AM a 8:00 AM |  L-V 4:30 PM a 9:30 PM <br> G45 - De  San Mateo a Portal del Sur:  L-S 5:00 AM a 8:00 AM |  L-V 4:30 PM a 9:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -6828,7 +6828,7 @@
         },
         "G46": {
             "servicio": "G46",
-            "horario": "G46 - De Portal Norte a San Mateo: &nbsp L-S 5:00 AM a 9:00 AM&nbsp | &nbsp L-S 3:00 PM a 8:00 PM",
+            "horario": "G46 - De Portal Norte a San Mateo:  L-S 5:00 AM a 9:00 AM |  L-S 3:00 PM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -6915,7 +6915,7 @@
         },
         "G47": {
             "servicio": "G47",
-            "horario": "G47 - De Museo Nacional a Portal del Sur: &nbsp L-V 4:30 AM a 11:00 PM&nbsp | &nbsp S 5:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "G47 - De Museo Nacional a Portal del Sur:  L-V 4:30 AM a 11:00 PM |  S 5:00 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -7015,7 +7015,7 @@
         },
         "G52": {
             "servicio": "G52",
-            "horario": "G52 - De Flores a Portal del Sur: &nbsp L-V 4:00 PM a 8:00 PM",
+            "horario": "G52 - De Flores a Portal del Sur:  L-V 4:00 PM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -7106,7 +7106,7 @@
         },
         "H13": {
             "servicio": "H13",
-            "horario": "H13 - De Portal Norte a Portal Tunal: &nbsp L-V 5:30 AM a 10:00 PM&nbsp | &nbsp S 6:30 AM a 10:00 PM",
+            "horario": "H13 - De Portal Norte a Portal Tunal:  L-V 5:30 AM a 10:00 PM |  S 6:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -7238,7 +7238,7 @@
         },
         "H15": {
             "servicio": "H15",
-            "horario": "H15 - De Portal Suba a Portal Tunal: &nbsp L-S 5:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "H15 - De Portal Suba a Portal Tunal:  L-S 5:30 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -7385,7 +7385,7 @@
         },
         "H17": {
             "servicio": "H17",
-            "horario": "H17 - De Portal Suba a Portal Usme: &nbsp L-V 4:30 AM a 8:00 PM &nbsp | &nbsp S 5:00 AM a 3:00 PM",
+            "horario": "H17 - De Portal Suba a Portal Usme:  L-V 4:30 AM a 8:00 PM  |  S 5:00 AM a 3:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -7561,7 +7561,7 @@
         },
         "H20": {
             "servicio": "H20",
-            "horario": "H20 - De Portal de la 80 a Portal Usme: &nbsp L-V 4:30 AM a 10:00 PM &nbsp | &nbsp S 5:00 AM a 8:00 PM",
+            "horario": "H20 - De Portal de la 80 a Portal Usme:  L-V 4:30 AM a 10:00 PM  |  S 5:00 AM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -7699,7 +7699,7 @@
         },
         "H21": {
             "servicio": "H21",
-            "horario": "H21 - De Portal Calle 80 a Portal Tunal: &nbsp L-S 4:30 AM a 11:00 PM",
+            "horario": "H21 - De Portal Calle 80 a Portal Tunal:  L-S 4:30 AM a 11:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -7826,7 +7826,7 @@
         },
         "H27": {
             "servicio": "H27",
-            "horario": "H27 - De Portal Norte a Portal Tunal: &nbsp L-V 6:00 AM a 9:00 AM &nbsp | &nbsp L-V 3:00 PM a 8:00 PM",
+            "horario": "H27 - De Portal Norte a Portal Tunal:  L-V 6:00 AM a 9:00 AM  |  L-V 3:00 PM a 8:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -7916,7 +7916,7 @@
         },
         "H54": {
             "servicio": "H54",
-            "horario": "H54 - De Portal Eldorado a Portal Usme: &nbsp L-S 5:30 AM a 10:30 PM",
+            "horario": "H54 - De Portal Eldorado a Portal Usme:  L-S 5:30 AM a 10:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8033,7 +8033,7 @@
                 {
                     "orden": 17,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 },
@@ -8060,7 +8060,7 @@
         },
         "H72": {
             "servicio": "H72",
-            "horario": "H72 - De Toberín a Portal Usme: &nbsp L-S 5:30 AM a 11:00 PM &nbsp | &nbsp D-F 5:00 AM a 9:00 PM",
+            "horario": "H72 - De Toberín a Portal Usme:  L-S 5:30 AM a 11:00 PM  |  D-F 5:00 AM a 9:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8187,7 +8187,7 @@
         },
         "H75": {
             "servicio": "H75",
-            "horario": "H75 - De Portal Norte a Portal Usme: &nbsp L-S 5:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "H75 - De Portal Norte a Portal Usme:  L-S 5:00 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8332,7 +8332,7 @@
         },
         "H76": {
             "servicio": "H76",
-            "horario": "H76 - De Universidades a Portal Usme: &nbsp L-V 4:00 PM a 10:30 PM",
+            "horario": "H76 - De Universidades a Portal Usme:  L-V 4:00 PM a 10:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8417,7 +8417,7 @@
         },
         "H83": {
             "servicio": "H83",
-            "horario": "H83 - De Museo Nacional a Portal Usme: &nbsp L-V 4:30 AM a 11:00 PM &nbsp|&nbsp S 5:00 AM a 10:30 PM &nbsp|&nbsp D-F 5:00 AM a 10:00 PM ",
+            "horario": "H83 - De Museo Nacional a Portal Usme:  L-V 4:30 AM a 11:00 PM | S 5:00 AM a 10:30 PM | D-F 5:00 AM a 10:00 PM ",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8502,7 +8502,7 @@
         },
         "J23": {
             "servicio": "J23",
-            "horario": "J23 - De Portal de las Américas a Las Aguas: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbsp D-F 5:00 AM a 10:00 PM",
+            "horario": "J23 - De Portal de las Américas a Las Aguas:  L-S 4:00 AM a 11:00 PM |  D-F 5:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8596,7 +8596,7 @@
         },
         "J24": {
             "servicio": "J24",
-            "horario": "J24 - De Portal de la 80 a Universidades: &nbsp L-V 5:15 AM a 10:15 PM &nbsp | &nbsp S 5:30 AM a 8:30 PM",
+            "horario": "J24 - De Portal de la 80 a Universidades:  L-V 5:15 AM a 10:15 PM  |  S 5:30 AM a 8:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8682,7 +8682,7 @@
         },
         "J70": {
             "servicio": "J70",
-            "horario": "J70 - De  Portal Norte a Las Aguas: &nbsp L-V 5:30 AM a 9:00 AM",
+            "horario": "J70 - De  Portal Norte a Las Aguas:  L-V 5:30 AM a 9:00 AM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8781,7 +8781,7 @@
         },
         "J73": {
             "servicio": "J73",
-            "horario": "J73 - De Portal Suba a Universidades: &nbsp L-V 5:30 AM a 9:00 AM",
+            "horario": "J73 - De Portal Suba a Universidades:  L-V 5:30 AM a 9:00 AM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8866,7 +8866,7 @@
         },
         "J74": {
             "servicio": "J74",
-            "horario": "J74 - De Portal Norte a Las Aguas: &nbsp L-V 5:30 AM a 9:30 PM&nbsp | &nbsp S 6:30 AM a 8:30 PM",
+            "horario": "J74 - De Portal Norte a Las Aguas:  L-V 5:30 AM a 9:30 PM |  S 6:30 AM a 8:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -8961,7 +8961,7 @@
         },
         "J76": {
             "servicio": "J76",
-            "horario": "J76 - De Portal Usme a Universidades: &nbsp L-V 5:00 AM a 8:30 AM",
+            "horario": "J76 - De Portal Usme a Universidades:  L-V 5:00 AM a 8:30 AM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -9046,7 +9046,7 @@
         },
         "K10": {
             "servicio": "K10",
-            "horario": "K10 - De Portal 20 de Julio a Portal Eldorado: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "K10 - De Portal 20 de Julio a Portal Eldorado:  L-S 4:00 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -9100,7 +9100,7 @@
                 {
                     "orden": 8,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 },
@@ -9168,7 +9168,7 @@
         },
         "K16": {
             "servicio": "K16",
-            "horario": "K16 - De Terminal a Portal Eldorado: &nbsp L-V 5:00 AM a 10:30 PM&nbsp | &nbspS 5:30 AM a 10:00 PM",
+            "horario": "K16 - De Terminal a Portal Eldorado:  L-V 5:00 AM a 10:30 PM | S 5:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -9278,7 +9278,7 @@
                 {
                     "orden": 16,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 }
@@ -9302,7 +9302,7 @@
         },
         "K23": {
             "servicio": "K23",
-            "horario": "K23 - De Alcalá a Portal Eldorado: &nbsp L-S 5:30 AM a 10:00 PM",
+            "horario": "K23 - De Alcalá a Portal Eldorado:  L-S 5:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -9405,7 +9405,7 @@
                 {
                     "orden": 15,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 }
@@ -9424,7 +9424,7 @@
         },
         "K43": {
             "servicio": "K43",
-            "horario": "K43 - De San Mateo a Portal Eldorado: &nbsp L-S 4:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:00 AM a 10:00 PM",
+            "horario": "K43 - De San Mateo a Portal Eldorado:  L-S 4:00 AM a 11:00 PM |  D-F 4:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -9534,7 +9534,7 @@
                 {
                     "orden": 16,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 }
@@ -9556,7 +9556,7 @@
         },
         "K54": {
             "servicio": "K54",
-            "horario": "K54 - De Portal Usme a Portal Eldorado: &nbsp L-S 4:30 AM a 10:30 PM",
+            "horario": "K54 - De Portal Usme a Portal Eldorado:  L-S 4:30 AM a 10:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -9673,7 +9673,7 @@
                 {
                     "orden": 17,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 },
@@ -9700,7 +9700,7 @@
         },
         "L10": {
             "servicio": "L10",
-            "horario": "L10 - De Portal Eldorado a Portal 20 de Julio: &nbsp L-S 5:00 AM a 11:00 PM&nbsp | &nbsp D-F 4:30 AM a 10:00 PM",
+            "horario": "L10 - De Portal Eldorado a Portal 20 de Julio:  L-S 5:00 AM a 11:00 PM |  D-F 4:30 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -9754,7 +9754,7 @@
                 {
                     "orden": 8,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 },
@@ -9822,7 +9822,7 @@
         },
         "L18": {
             "servicio": "L18",
-            "horario": "L18 - De Terminal a Portal 20 de Julio: &nbsp L-V 5:00 AM a 10:00 PM&nbsp | &nbsp S 5:30 AM a 9:30 PM",
+            "horario": "L18 - De Terminal a Portal 20 de Julio:  L-V 5:00 AM a 10:00 PM |  S 5:30 AM a 9:30 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -9946,7 +9946,7 @@
         },
         "L25": {
             "servicio": "L25",
-            "horario": "L25 - De Portal Suba a Portal 20 de Julio: &nbsp L-V 5:00 AM a 10:00 PM &nbsp | &nbsp S 5:00 AM a 8:00 PM &nbsp | &nbsp D-F 5:00 AM a 10:00 PM",
+            "horario": "L25 - De Portal Suba a Portal 20 de Julio:  L-V 5:00 AM a 10:00 PM  |  S 5:00 AM a 8:00 PM  |  D-F 5:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10107,7 +10107,7 @@
         },
         "L41": {
             "servicio": "L41",
-            "horario": "L41 - De San Mateo a Bicentenario: &nbsp L-S 4:30 AM a 9:00 PM",
+            "horario": "L41 - De San Mateo a Bicentenario:  L-S 4:30 AM a 9:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10178,7 +10178,7 @@
         },
         "M47": {
             "servicio": "M47",
-            "horario": "M47 - De Portal del Sur a Museo Nacional: &nbsp L-S 4:30 AM a 11:00 PM&nbsp | &nbsp D-F 4:00 AM a 10:00 PM",
+            "horario": "M47 - De Portal del Sur a Museo Nacional:  L-S 4:30 AM a 11:00 PM |  D-F 4:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10278,7 +10278,7 @@
         },
         "M51": {
             "servicio": "M51",
-            "horario": "M51 - De Portal de las Américas a Museo Nacional: &nbsp L-S 4:30 AM a 11:00 PM",
+            "horario": "M51 - De Portal de las Américas a Museo Nacional:  L-S 4:30 AM a 11:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10379,7 +10379,7 @@
         },
         "M83": {
             "servicio": "M83",
-            "horario": "M83 - De Portal Usme a Museo Nacional: &nbsp L-V 4:30 AM a 11:00 PM &nbsp|&nbsp S 4:30 AM a 10:30 PM &nbsp|&nbsp D-F 4:30 AM a 10:00 PM ",
+            "horario": "M83 - De Portal Usme a Museo Nacional:  L-V 4:30 AM a 11:00 PM | S 4:30 AM a 10:30 PM | D-F 4:30 AM a 10:00 PM ",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10464,7 +10464,7 @@
         },
         "M86": {
             "servicio": "M86",
-            "horario": "M86 - De Aeropuerto Eldorado a Hacienda Santa Bárbara: &nbsp L-S 4:30 AM a 10:00 PM &nbsp|&nbsp D-F 4:30 AM A 9:00 PM <br> M86 - De Aeropuerto Eldorado a Hacienda Santa Bárbara [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+            "horario": "M86 - De Aeropuerto Eldorado a Hacienda Santa Bárbara:  L-S 4:30 AM a 10:00 PM | D-F 4:30 AM A 9:00 PM <br> M86 - De Aeropuerto Eldorado a Hacienda Santa Bárbara [Ciclovía]:  D-F 7:00 AM a 2:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10525,7 +10525,7 @@
                 {
                     "orden": 9,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 },
@@ -10562,7 +10562,7 @@
         },
         "K86": {
             "servicio": "K86",
-            "horario": "K86 - De Fundación Santa Fe a Aeropuerto Eldorado: &nbsp L-S 5:30 AM a 11:00 PM &nbsp|&nbsp D-F 5:30 AM a 10:00 PM <br> K86 - De Fundación Santa Fe a Aeropuerto Eldorado [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM ",
+            "horario": "K86 - De Fundación Santa Fe a Aeropuerto Eldorado:  L-S 5:30 AM a 11:00 PM | D-F 5:30 AM a 10:00 PM <br> K86 - De Fundación Santa Fe a Aeropuerto Eldorado [Ciclovía]:  D-F 7:00 AM a 2:00 PM ",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10623,7 +10623,7 @@
                 {
                     "orden": 9,
                     "id": 116,
-                    "nombre": "&nbsp &nbsp &nbsp Portal Eldorado &nbsp &nbsp &nbsp CC Nuestro Bogotá",
+                    "nombre": " Portal Eldorado  CC Nuestro Bogotá",
                     "x": 525.0,
                     "y": 644.0
                 },
@@ -10653,7 +10653,7 @@
         },
         "M82": {
             "servicio": "M82",
-            "horario": "M82 - De Portal 20 de Julio a Clínica El Bosque: &nbsp L-S 4:00 AM a 11:00 PM &nbsp|&nbsp D-F 4:30 AM a 10:00 PM <br> M82 - De Portal 20 de Julio a Clínica El Bosque [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+            "horario": "M82 - De Portal 20 de Julio a Clínica El Bosque:  L-S 4:00 AM a 11:00 PM | D-F 4:30 AM a 10:00 PM <br> M82 - De Portal 20 de Julio a Clínica El Bosque [Ciclovía]:  D-F 7:00 AM a 2:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10706,7 +10706,7 @@
         },
         "L82": {
             "servicio": "L82",
-            "horario": "L82 - De Ginebra Norte a Portal 20 de Julio: &nbsp L-V 4:30 AM a 11:00 PM &nbsp|&nbsp S 5:00 AM a 11:00 PM &nbsp|&nbsp D-F 5:30 AM a 10:00 PM <br> L82 - De Ginebra Norte a Portal 20 de Julio [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+            "horario": "L82 - De Ginebra Norte a Portal 20 de Julio:  L-V 4:30 AM a 11:00 PM | S 5:00 AM a 11:00 PM | D-F 5:30 AM a 10:00 PM <br> L82 - De Ginebra Norte a Portal 20 de Julio [Ciclovía]:  D-F 7:00 AM a 2:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10759,7 +10759,7 @@
         },
         "D81": {
             "servicio": "D81",
-            "horario": "D81 - De Portal 20 de Julio a CL 80 Pte de Guadua: &nbsp L-S 4:00 AM a 11:00 PM &nbsp|&nbsp D-F 4:30 AM a 10:00 PM <br> D81 - De Portal 20 de Julio a CL 80 Pte de Guadua [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+            "horario": "D81 - De Portal 20 de Julio a CL 80 Pte de Guadua:  L-S 4:00 AM a 11:00 PM | D-F 4:30 AM a 10:00 PM <br> D81 - De Portal 20 de Julio a CL 80 Pte de Guadua [Ciclovía]:  D-F 7:00 AM a 2:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10843,7 +10843,7 @@
         },
         "L81": {
             "servicio": "L81",
-            "horario": "L81 - De Puente de Guadua a Portal 20 de Julio: &nbsp L-S 5:00 AM a 11:00 PM &nbsp|&nbsp D-F 5:00 AM a 10:00 PM <br> L81 - De Puente de Guadua a Portal 20 de Julio [Ciclovía]: &nbsp D-F 7:00 AM a 2:00 PM",
+            "horario": "L81 - De Puente de Guadua a Portal 20 de Julio:  L-S 5:00 AM a 11:00 PM | D-F 5:00 AM a 10:00 PM <br> L81 - De Puente de Guadua a Portal 20 de Julio [Ciclovía]:  D-F 7:00 AM a 2:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10929,7 +10929,7 @@
         },
         "M84": {
             "servicio": "M84",
-            "horario": "M84 - De ETB Tibabuyes a K7 con Calle 72: &nbsp L-S 5:00 AM a 11:00 PM &nbsp|&nbsp D-F 5:00 AM a 10:00 PM",
+            "horario": "M84 - De ETB Tibabuyes a K7 con Calle 72:  L-S 5:00 AM a 11:00 PM | D-F 5:00 AM a 10:00 PM",
             "estaciones": [
                 {
                     "orden": 1,
@@ -10968,7 +10968,7 @@
         },
         "C84": {
             "servicio": "C84",
-            "horario": "C84 - De K7 con Calle 72 a ETB Tibabuyes: &nbsp L-S 6:00 AM a 22:00 PM &nbsp|&nbsp D-F 6:00 AM a 21:00 PM",
+            "horario": "C84 - De K7 con Calle 72 a ETB Tibabuyes:  L-S 6:00 AM a 22:00 PM | D-F 6:00 AM a 21:00 PM",
             "estaciones": [
                 {
                     "orden": 1,

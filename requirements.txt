@@ -1,3 +1,5 @@
 # TransMi Route
-# Este proyecto utiliza únicamente librerías de la biblioteca estándar de Python.
-# No se requieren dependencias externas para ejecutar la aplicación.
+# Dependencias externas de Python: ninguna.
+#
+# El proyecto utiliza únicamente la biblioteca estándar de Python.
+# Tkinter viene incluido normalmente con Python y se utiliza para la interfaz gráfica.
